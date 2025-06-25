@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Report de Riscos</string>
+    <string name="location_label">Localização: %1$s</string>
+    <string name="location_text">Localização: Lat: %1$.5f, Long: %2$.5f</string>
+    <string name="location_unavailable">Localização não disponível</string>
+    <string name="location_error">Erro ao obter localização</string>
+    <string name="title_description_required">Título e descrição são obrigatórios.</string>
+    <string name="image_upload_error">Erro ao enviar imagem.</string>
+    <string name="report_saved_success">Risco registrado com sucesso!</string>
+    <string name="my_reports">Meus Relatórios</string>
+    <string name="toolbar_description">Barra de navegação dos relatórios</string>
+    <string name="image_description">Imagem do risco</string>
+    <string name="report_description">Descrição do risco</string>
+    <string name="location_reloading">Localização: atualizando...</string>
+    <string name="location_permission_denied">Localização: Permissão negada. Verifique as configurações do app.</string>
+
+    <string name="report_title_placeholder">Título do Risco</string>
+    <string name="report_location_placeholder">Localização</string>
+    <string name="status_placeholder">Status: Carregando...</string>
+    <string name="status_label_adapter">Status: %1$s</string>
+
+</resources>

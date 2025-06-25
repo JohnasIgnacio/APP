@@ -1,0 +1,13 @@
+<resources>
+    <color name="navy_blue">#1A237E</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray_light">#ECEFF1</color>
+    <color name="gray_dark">#455A64</color>
+    <color name="accent">#3949AB</color>
+
+    <color name="status_resolvido_app1">#4CAF50</color>
+    <color name="status_em_progresso_app1">#FFC107</color>
+    <color name="status_invalido_app1">#9E9E9E</color>
+    <color name="status_aberto_app1">#F44336</color>
+    <color name="status_desconhecido_app1">#757575</color>
+</resources>

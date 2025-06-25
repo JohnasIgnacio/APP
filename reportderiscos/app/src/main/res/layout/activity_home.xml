@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.google.android.material.appbar.MaterialToolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorPrimary"
+        android:title="Menu"
+        android:titleTextColor="@color/white"/>
+
+    <LinearLayout
+        android:layout_marginTop="?attr/actionBarSize"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:background="@color/gray_light"
+        android:padding="24dp">
+
+        <com.google.android.material.button.MaterialButton
+            style="@style/Widget.ReportDeRiscos.Button"
+            android:id="@+id/buttonToReport"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Reportar Risco"/>
+
+        <com.google.android.material.button.MaterialButton
+            style="@style/Widget.ReportDeRiscos.Button"
+            android:id="@+id/buttonToList"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ver Relatórios"
+            android:layout_marginTop="16dp"/>
+
+        <com.google.android.material.button.MaterialButton
+            style="@style/Widget.ReportDeRiscos.Button"
+            android:id="@+id/buttonLogout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sair / Logout"
+            android:layout_marginTop="16dp"/>
+    </LinearLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

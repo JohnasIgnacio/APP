@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "173340550062",
+    "firebase_url": "https://report-de-riscos-default-rtdb.firebaseio.com",
+    "project_id": "report-de-riscos",
+    "storage_bucket": "report-de-riscos.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173340550062:android:89c56ed82d49fb798bde3f",
+        "android_client_info": {
+          "package_name": "com.leandro.manageriscos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtwkM_qmxjxZ01JfkRJI3GiTd2McRKvCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173340550062:android:0b306bc811e042fa8bde3f",
+        "android_client_info": {
+          "package_name": "com.leandro.reportderiscos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtwkM_qmxjxZ01JfkRJI3GiTd2McRKvCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

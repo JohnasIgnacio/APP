@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Manageriscos</string>
+
+    <!-- Strings para ReportAdapter e ListaRiscosActivity -->
+    <string name="sem_titulo">Sem Título</string>
+    <string name="sem_descricao">Sem Descrição</string>
+    <string name="localizacao_nao_informada">Localização não informada</string>
+    <string name="formato_data_hora">Data: %1$s</string>
+    <string name="data_nao_informada">Data não informada</string>
+    <string name="status_label">Status: %1$s</string>
+    <string name="descricao_imagem_risco">Imagem do Risco</string>
+    <string name="imagem_nao_disponivel">Imagem não disponível</string>
+    <string name="id_risco_invalido">ID do Risco inválido.</string>
+
+    <!-- Strings para ListaRiscosActivity -->
+    <string name="titulo_relatorio_riscos">Relatório de Riscos</string>
+    <string name="erro_carregar_dados">Erro ao carregar dados.</string>
+    <string name="filtro_data_limpo">Filtro de data limpo.</string>
+    <string name="nenhum_risco_filtro">Nenhum risco encontrado para o filtro aplicado.</string>
+    <string name="nenhum_risco_cadastrado">Nenhum risco cadastrado.</string>
+    <string name="hint_data_inicio">Data Início (dd/mm/aaaa)</string>
+    <string name="hint_data_fim">Data Fim (dd/mm/aaaa)</string>
+    <string name="botao_filtrar">Filtrar</string>
+    <string name="botao_limpar">Limpar</string>
+
+    <!-- Strings para MapaActivity -->
+    <string name="titulo_mapa_riscos">Mapa de Riscos</string>
+    <string name="erro_carregar_dados_mapa">Erro ao carregar dados do mapa.</string>
+    <string name="id_risco_nao_encontrado_marcador">ID do risco não encontrado na tag do marcador.</string>
+
+    <!-- Strings para DetalheRiscoActivity -->
+    <string name="titulo_detalhes_risco">Detalhes do Risco</string>
+    <string name="foto_do_risco">Foto do Risco</string>
+    <string name="label_descricao">Descrição</string>
+    <string name="label_reportado_em">Reportado em: %1$s</string>
+    <string name="label_localizacao">Localização</string>
+    <string name="ver_no_mapa_principal">Ver no Mapa Principal</string>
+    <string name="hint_status_risco">Status do Risco</string>
+    <string name="hint_observacoes">Observações / Resolução</string>
+    <string name="salvar_alteracoes">Salvar Alterações</string>
+    <string name="id_risco_nao_encontrado_detalhe">ID do Risco não encontrado.</string>
+    <string name="risco_nao_encontrado">Risco não encontrado.</string>
+    <string name="erro_carregar_detalhes">Erro ao carregar detalhes.</string>
+    <string name="dados_risco_ausentes_salvar">Não foi possível salvar. Dados do risco ausentes.</string>
+    <string name="alteracoes_salvas_sucesso">Alterações salvas com sucesso!</string>
+    <string name="erro_salvar_alteracoes">Erro ao salvar: %1$s</string>
+    <string name="localizacao_nao_disponivel">Localização não disponível.</string>
+    <string name="url_imagem_nao_encontrada">URL da imagem não encontrada.</string>
+
+    <!-- Strings para FullScreenImageActivity -->
+    <string name="fechar">Fechar</string>
+    <string name="imagem_em_tela_cheia">Imagem em Tela Cheia</string>
+
+    <string name="menu_principal">Menu Principal</string>
+    <string name="abrir_mapa_riscos">Abrir Mapa de Riscos</string>
+    <string name="ver_lista_riscos">Ver Lista de Riscos</string>
+    <string name="relatorios_e_estatisticas">Relatórios e Estatísticas</string>
+
+    <string name="titulo_estatisticas_relatorios">Relatórios e Estatísticas</string>
+    <string name="filtros_estatisticas">Filtros</string>
+    <string name="hint_usuario_reportou">Usuário (Todos)</string>
+    <string name="botao_aplicar_filtros">Aplicar Filtros</string>
+    <string name="botao_limpar_filtros">Limpar Filtros</string>
+    <string name="contadores_status_titulo">Riscos por Status</string>
+    <string name="status_aberto">Aberto</string>
+
+    <string name="grafico_status_titulo">Distribuição de Status</string>
+    <string name="ultimos_riscos_titulo">Últimos 3 Riscos Reportados</string>
+    <string name="outras_estatisticas_titulo">Outras Estatísticas</string>
+    <string name="estatisticas_em_breve">Mais estatísticas em breve...</string>
+
+
+    <string name="nenhum_dado_filtros">Nenhum dado encontrado para os filtros aplicados.</string>
+    <string name="nenhum_dado_disponivel">Nenhum dado disponível para exibir.</string>
+
+    <string name="todos_placeholder">Todos</string>
+    <string name="filtros_limpos">Filtros limpos</string>
+
+    <string name="botao_exportar_csv">Exportar para CSV</string>
+    <string name="nenhum_dado_exportar">Nenhum dado para exportar.</string>
+    <string name="relatorio_csv_salvo_sucesso">Relatório CSV salvo com sucesso!</string>
+    <string name="erro_salvar_csv">Erro ao salvar arquivo CSV: %1$s</string>
+</resources>

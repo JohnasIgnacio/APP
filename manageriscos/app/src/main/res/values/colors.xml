@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="status_resolvido">#4CAF50</color> <!-- Verde -->
+    <color name="status_em_andamento">#FFC107</color> <!-- Amarelo Âmbar -->
+    <color name="status_em_analise">#2196F3</color> <!-- Azul -->
+    <color name="status_invalido">#9E9E9E</color> <!-- Cinza -->
+    <color name="status_aberto">#F44336</color> <!-- Vermelho -->
+    <color name="status_desconhecido">#607D8B</color> <!-- Cinza Azulado -->
+</resources>
